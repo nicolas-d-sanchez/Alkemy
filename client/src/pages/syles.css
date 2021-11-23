@@ -1,0 +1,13 @@
+#notFoundContainer, #ContainerHome, #ContainerLogin, #ContainerBalance{
+    margin-top: 100px;
+    position: relative;
+}
+
+#ContainerBalance #Button{
+    float: left;
+    margin-bottom: 3px;
+}
+
+#notFoundContainer #notFoundImg {
+    width: 100%;
+}

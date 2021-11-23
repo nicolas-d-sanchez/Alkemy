@@ -1,0 +1,23 @@
+#navbar #navbar-sub-brand{
+    font-size: 14px;
+}
+#navbar #dropdown-header .row:nth-child(1){
+    font-size: 40px;
+    display: flex;
+    justify-content: center; 
+}
+
+#navbar #dropdown-header .row:nth-child(2){
+    margin-top: 5px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+}
+
+
+#navbar  .dropdown-menu {
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
